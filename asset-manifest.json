@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bloodborne-checklist/static/css/main.e325c7ed.css",
-    "main.js": "/bloodborne-checklist/static/js/main.bb834fde.js",
+    "main.js": "/bloodborne-checklist/static/js/main.e90c04ff.js",
     "static/js/453.1652f724.chunk.js": "/bloodborne-checklist/static/js/453.1652f724.chunk.js",
     "index.html": "/bloodborne-checklist/index.html",
     "main.e325c7ed.css.map": "/bloodborne-checklist/static/css/main.e325c7ed.css.map",
-    "main.bb834fde.js.map": "/bloodborne-checklist/static/js/main.bb834fde.js.map",
+    "main.e90c04ff.js.map": "/bloodborne-checklist/static/js/main.e90c04ff.js.map",
     "453.1652f724.chunk.js.map": "/bloodborne-checklist/static/js/453.1652f724.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e325c7ed.css",
-    "static/js/main.bb834fde.js"
+    "static/js/main.e90c04ff.js"
   ]
 }
